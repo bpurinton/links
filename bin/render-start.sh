@@ -2,4 +2,4 @@
 # exit on error
 set -o errexit
 
-bundle exec rackup
+bundle exec ruby app.rb
